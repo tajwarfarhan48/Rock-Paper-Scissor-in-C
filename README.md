@@ -1,6 +1,8 @@
 # Rock-Paper-Scissor-in-C
 A rock-paper-scissor game created in C, with option for both single player and multiplayer
 
+NOTE: In this version, Player 1 is the human and Player 2 is the computer
+
 NOTE: Only the single player option can be played at the moment. Multiplayer functionality will be added in a later update
 
 # Steps to play the game
