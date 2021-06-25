@@ -1,7 +1,7 @@
 # Rock-Paper-Scissor-in-C
 A rock-paper-scissor game created in C, with option for both single player and multiplayer
 
-NOTE: Only the single player option can be played at the moment. Multiplayer function will be added in a later update
+NOTE: Only the single player option can be played at the moment. Multiplayer functionality will be added in a later update
 
 # Steps to play the game
 Copy and paste the following commands on your Linux/Mac terminal or Git Bash on Windows (I will add the corresponding Windows Command Prompt operations at a later date):
